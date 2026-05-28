@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Breathe ESG — Ingestion</title>
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'assets/index.css' %}" onerror="this.remove()" />
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="{% static 'assets/index.js' %}" onerror="document.getElementById('root').innerHTML='<div style=\'padding:2rem;font-family:system-ui\'><h1>Breathe ESG backend is live.</h1><p>The frontend bundle has not been built yet. Run <code>npm run build</code> in <code>frontend/</code> and copy <code>dist/</code> to <code>backend/frontend_build/</code>, then <code>collectstatic</code>.</p><p>API: <a href=\'/api/organizations\'>/api/organizations</a></p></div>'">
+  </script>
+</body>
+</html>

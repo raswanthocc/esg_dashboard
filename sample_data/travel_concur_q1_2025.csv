@@ -1,0 +1,33 @@
+Trip ID,Traveller,Type,Date,Origin,Destination,Cabin,Nights,Distance km,City,Country,End Date
+T-2025-0001,priya.s@acme.example,Flight,2025-01-08,BOM,DEL,Economy,,,,,
+T-2025-0001,priya.s@acme.example,Hotel,2025-01-08,,,,2,,Delhi,IN,2025-01-10
+T-2025-0001,priya.s@acme.example,Ground,2025-01-08,,,,,18,Delhi,IN,
+T-2025-0001,priya.s@acme.example,Flight,2025-01-10,DEL,BOM,Economy,,,,,
+T-2025-0002,rahul.k@acme.example,Flight,2025-01-14,BLR,SIN,Business,,,,,
+T-2025-0002,rahul.k@acme.example,Hotel,2025-01-14,,,,3,,Singapore,SG,2025-01-17
+T-2025-0002,rahul.k@acme.example,Flight,2025-01-17,SIN,BLR,Business,,,,,
+T-2025-0003,maya.p@acme.example,Flight,2025-01-22,BOM,LHR,Business,,,,,
+T-2025-0003,maya.p@acme.example,Hotel,2025-01-22,,,,4,,London,GB,2025-01-26
+T-2025-0003,maya.p@acme.example,Flight,2025-01-26,LHR,BOM,Business,,,,,
+T-2025-0004,arjun.m@acme.example,Flight,2025-02-03,DEL,DXB,Economy,,,,,
+T-2025-0004,arjun.m@acme.example,Hotel,2025-02-03,,,,2,,Dubai,AE,2025-02-05
+T-2025-0004,arjun.m@acme.example,Flight,2025-02-05,DXB,DEL,Economy,,,,,
+T-2025-0005,leena.j@acme.example,Flight,2025-02-11,MAA,FRA,Premium Economy,,,,,
+T-2025-0005,leena.j@acme.example,Hotel,2025-02-11,,,,5,,Frankfurt,DE,2025-02-16
+T-2025-0005,leena.j@acme.example,Flight,2025-02-16,FRA,MAA,Premium Economy,,,,,
+T-2025-0006,priya.s@acme.example,Flight,2025-02-20,BOM,DEL,Economy,,,,,
+T-2025-0006,priya.s@acme.example,Rail,2025-02-21,,,,,250,Delhi,IN,
+T-2025-0006,priya.s@acme.example,Flight,2025-02-22,DEL,BOM,Economy,,,,,
+T-2025-0007,suresh.t@acme.example,Flight,2025-03-04,BLR,JFK,Business,,,,,
+T-2025-0007,suresh.t@acme.example,Hotel,2025-03-04,,,,6,,New York,US,2025-03-10
+T-2025-0007,suresh.t@acme.example,Ground,2025-03-05,,,,,55,New York,US,
+T-2025-0007,suresh.t@acme.example,Flight,2025-03-10,JFK,BLR,Business,,,,,
+T-2025-0008,anita.r@acme.example,Flight,2025-03-12,DEL,XXX,Economy,,,,,
+T-2025-0008,anita.r@acme.example,Hotel,2025-03-12,,,,2,,Unknown,,2025-03-14
+T-2025-0009,vikram.s@acme.example,Flight,2025-03-18,BOM,SFO,First,,,,,
+T-2025-0009,vikram.s@acme.example,Hotel,2025-03-18,,,,4,,San Francisco,US,2025-03-22
+T-2025-0009,vikram.s@acme.example,Ground,2025-03-19,,,,,,San Francisco,US,
+T-2025-0009,vikram.s@acme.example,Flight,2025-03-22,SFO,BOM,First,,,,,
+T-2025-0010,priya.s@acme.example,Flight,2025-03-25,BOM,HKG,Business,,,,,
+T-2025-0010,priya.s@acme.example,Hotel,2025-03-25,,,,3,,Hong Kong,HK,2025-03-28
+T-2025-0010,priya.s@acme.example,Flight,2025-03-28,HKG,BOM,Business,,,,,
